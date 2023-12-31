@@ -18,7 +18,7 @@ Enter the following commands in a terminal. Be patient while g++ is running, it'
 
 ```
 git clone https://github.com/KingCobra58/xbtt
-cd xbt/Tracker
+cd xbtt/Tracker
 cmake .
 make
 ```
