@@ -1,4 +1,4 @@
-# XBT Tracker
+# XBT Customized for xbtitFM Only 
 
 ### Installing under Linux
 
